@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <test name="DefaultFieldsValuesPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.DefaultFieldsValuesPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="AccountsCustomValuesPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.AccountsCustomValuesPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="ReviewExportCSVReadTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.ReviewExportCSVReadTest">
+			</class>
+		</classes>
+	</test>
+
+	<test name="CleansingPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.CleansingPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="AccountsLocationGroupsPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.AccountsLocationGroupsPageTest">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="HealthPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.HealthPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="FlagReviewFeedPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.FlagReviewFeedPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="InsightPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.Insight_Pages_test">
+			</class>
+		</classes>
+	</test>
+	<test name="LocationGUITest" parallel="methods">
+	<classes>
+		<class name="com.b1.testcases.LocationGUITest">
+		</class>
+	</classes>
+</test>
+	<test name="LocationPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.LocationPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="EditUpdateLocationPageTes" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.EditUpdateLocationPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="AccountUserTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.AccountUserTest">
+			</class>
+		</classes>
+	</test>
+	<test name="AccountTeamTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.AccountTeamTest">
+			</class>
+		</classes>
+	</test>
+	<test name="AccountsDetailsPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.AccountsDetailsPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="ReviewVerificationTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.ReviewVerificationTest">
+			</class>
+		</classes>
+	</test>
+	<test name="ReviewReportsTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.ReviewReportsTest">
+			</class>
+		</classes>
+	</test>
+	<test name="NewInsightsPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.NewInsightsPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="BrandifyLocationPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.BrandifyLocationPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="QuickScanPageNewTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.QuickScanPageNewTest">
+			</class>
+		</classes>
+	</test>
+	<test name="ReviewFeedPageTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.ReviewFeedPageTest">
+			</class>
+		</classes>
+	</test>
+	<test name="StoreLocationSearchTest" parallel="methods">
+		<classes>
+			<class name="com.b1.testcases.StoreLocationSearchTest">
+			</class>
+		</classes>
+	</test>
+</suite> <!-- Suite -->

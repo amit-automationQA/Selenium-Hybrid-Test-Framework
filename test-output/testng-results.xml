@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122913" started-at="2021-02-05T14:33:21Z" finished-at="2021-02-05T14:35:24Z">
+    <groups>
+      <group name="regression">
+        <method signature="ReviewFeed_Regress_PageTest.C2277_VerifyEmail_ReviewSummary_Test()[pri:3, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2277_VerifyEmail_ReviewSummary_Test" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.C2278_VerifyEmail_ResponseReminder_Test()[pri:4, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2278_VerifyEmail_ResponseReminder_Test" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.C2281_VerifyShareReview()[pri:4, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2281_VerifyShareReview" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.clickOnContextAndSelectCheesecake()[pri:1, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="clickOnContextAndSelectCheesecake" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.clickOnReviews()[pri:2, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="clickOnReviews" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="ReviewFeed_Regress_PageTest.C2277_VerifyEmail_ReviewSummary_Test()[pri:3, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2277_VerifyEmail_ReviewSummary_Test" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.C2278_VerifyEmail_ResponseReminder_Test()[pri:4, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2278_VerifyEmail_ResponseReminder_Test" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.C2281_VerifyShareReview()[pri:4, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2281_VerifyShareReview" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.clickOnContextAndSelectCheesecake()[pri:1, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="clickOnContextAndSelectCheesecake" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+        <method signature="ReviewFeed_Regress_PageTest.clickOnReviews()[pri:2, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="clickOnReviews" class="com.b1.testcases.ReviewFeed_Regress_PageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Default test" duration-ms="122913" started-at="2021-02-05T14:33:21Z" finished-at="2021-02-05T14:35:24Z">
+      <class name="com.b1.testcases.ReviewFeed_Regress_PageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="setUp" is-config="true" duration-ms="19230" started-at="2021-02-05T14:33:21Z" finished-at="2021-02-05T14:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnContextAndSelectCheesecake()[pri:1, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="clickOnContextAndSelectCheesecake" duration-ms="6718" started-at="2021-02-05T14:33:41Z" finished-at="2021-02-05T14:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContextAndSelectCheesecake -->
+        <test-method status="PASS" signature="clickOnReviews()[pri:2, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="clickOnReviews" duration-ms="10396" started-at="2021-02-05T14:33:47Z" finished-at="2021-02-05T14:33:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnReviews -->
+        <test-method status="PASS" signature="C2277_VerifyEmail_ReviewSummary_Test()[pri:3, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2277_VerifyEmail_ReviewSummary_Test" duration-ms="37109" started-at="2021-02-05T14:33:58Z" finished-at="2021-02-05T14:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C2277_VerifyEmail_ReviewSummary_Test -->
+        <test-method status="PASS" signature="C2278_VerifyEmail_ResponseReminder_Test()[pri:4, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2278_VerifyEmail_ResponseReminder_Test" duration-ms="35689" started-at="2021-02-05T14:34:35Z" finished-at="2021-02-05T14:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C2278_VerifyEmail_ResponseReminder_Test -->
+        <test-method status="PASS" signature="C2281_VerifyShareReview()[pri:4, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="C2281_VerifyShareReview" duration-ms="12900" started-at="2021-02-05T14:35:11Z" finished-at="2021-02-05T14:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C2281_VerifyShareReview -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.b1.testcases.ReviewFeed_Regress_PageTest@79ad8b2f]" name="tearDown" is-config="true" duration-ms="740" started-at="2021-02-05T14:35:23Z" finished-at="2021-02-05T14:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.b1.testcases.ReviewFeed_Regress_PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
